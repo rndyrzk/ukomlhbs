@@ -18,7 +18,7 @@ Semua orang.
 
 DATA DIRI
 
-Nama		: 	Randy Rizki
-Email		: 	rndyrzk@gmail.com
-Github		:	rndyrzk
-Absen		:	23
+Nama		: 	Randy Rizki <br>
+Email		: 	rndyrzk@gmail.com <br>
+Github		:	rndyrzk <br>
+Absen		:	23 <br>
