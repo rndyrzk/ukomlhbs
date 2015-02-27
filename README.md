@@ -12,6 +12,9 @@ Manfaat :
 - Memudahkan seseorang dalam mengetahui Hasil Belajar’nya secara Online.
 - Membuat orang menjadi tidak kesusahan jika kelupaan nilai’nya.
 
+Fitur Aplikasi:
+- Bisa melihat nilai semua siswa
+- Bisa mengetahui tentang sekolah
 
 Pengguna :
 Semua orang.
